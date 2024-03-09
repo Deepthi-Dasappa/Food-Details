@@ -1,0 +1,45 @@
+body{
+    background-color: #F4EDCC;
+}
+
+h1{
+    text-align: center;
+    background-color: #E3E1D9;
+    padding: 8px;
+}
+
+ul{
+    list-style: none;
+}
+
+button{
+  margin-top: 20px;
+  margin-left: 55px;
+}
+
+.main{
+    display:flex;
+    gap: 200px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.main > .div1{
+    background-color: #F1F5A8;
+    padding: 20px 20px;
+}
+
+.main > .div2{
+    background-color: #BFEA7C;
+    padding: 20px 20px;
+}
+
+.main > .div3{
+    background-color: #9290C3;
+    padding: 20px 20px;
+}
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
